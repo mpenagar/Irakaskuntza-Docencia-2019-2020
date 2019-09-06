@@ -1,0 +1,6 @@
+3 5
+2 1 aaaaaaaa a aaaaa aaaaa aaaaa
+0 0 bbbbb bbb bbbb bbbbbb b
+0 4 cccccccccc ccccccccc cccccccc
+2 1 dddddd ddddddddddd dddddd
+0 1 eeeeeeee eeee eeeeeeeeeeeeee
